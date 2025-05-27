@@ -8,12 +8,12 @@ Monitor vaccination progress and its effect on case numbers,
 Analyze test positivity rates and data completeness
 
 Key SQL Analysis:
-Aggregation (SUM, COUNT, AVG)
-Subqueries and CTEs
-Country-level comparisons with GROUP BY
-Case fatality rate (deaths / cases)
-Vaccination rate tracking with conditional logic
-TEMP TABLE
+Aggregation (SUM, COUNT, AVG),
+Subqueries and CTEs,
+Country-level comparisons with GROUP BY,
+Case fatality rate (deaths / cases),
+Vaccination rate tracking with conditional logic,
+TEMP TABLE,
 Creating View to store data for visualizations
 
 Dataset:
